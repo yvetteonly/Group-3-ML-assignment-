@@ -48,5 +48,12 @@ The API serves as the bridge between the frontend and the machine learning model
 
 
 ## Screenshots Guide
+![gradio1](https://github.com/user-attachments/assets/ad64e4ae-1b28-48b3-8e89-a078157b33a3)
+![gradio2](https://github.com/user-attachments/assets/d9faa109-4fe0-4150-8dd8-03d99c47a92e)
+![postman](https://github.com/user-attachments/assets/6ce1f00c-e38d-4da1-a157-e224b84fcfc9)
+![html form that receive data from API](https://github.com/user-attachments/assets/9c4b239a-1042-43cc-9d2d-d827266b4086)
+
+
+
 
 
